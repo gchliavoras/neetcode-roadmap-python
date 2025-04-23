@@ -8,12 +8,12 @@ This repository contains my solutions to [Neetcode](https://neetcode.io)'s algor
 
 The problems are organized into folders by category. Each category shows its completion status:
 
-- [x] **01_Arrays_and_Hashing** – Completed
-- [x] **02_Two_Pointers** – Completed
+- [x] **01_Arrays and Hashing** – Completed
+- [x] **02_Two Pointers** – Completed
 - [x] **03_Stack** – Completed
-- [x] **04_Binary_Search** – Completed
-- [x] **05_Sliding_Window** – Completed
-- [ ] **06_Linked_List** – In progress
+- [x] **04_Binary Search** – Completed
+- [x] **05_Sliding Window** – Completed
+- [ ] **06_Linked List** – In progress
 - [ ] **07_Trees** – Not started
 - [ ] **08_Tries** – Not started
 - [ ] **09_Heap / Priority Queue** – Not started
@@ -25,8 +25,7 @@ The problems are organized into folders by category. Each category shows its com
 - [ ] **15_Intervals** – Not started
 - [ ] **16_Greedy** – Not started
 - [ ] **17_Bit Manipulation** – Not started
-- [ ] **18_Math & Geometry** – Not started
-
+ 
 ---
 
 ## Next Steps
